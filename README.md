@@ -25,6 +25,24 @@ The main take aways:
 ### [Step 1: Topic Modeling and Sentiment Analysis V1](notebooks/1_Topic_and_sentiment_V1.ipynb)
 
 
+Article and Kernels to review:
+
+[Improve your Score with some Text Preprocessing](https://www.kaggle.com/theoviel/improve-your-score-with-text-preprocessing-v2)
+[example cleaning and keras model](https://github.com/KevinLiao159/Quora/blob/master/kernels/submission_v50.py)
+
+[Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+
+[Text Classification: The First Step Toward NLP Mastery](https://medium.com/data-from-the-trenches/text-classification-the-first-step-toward-nlp-mastery-f5f95d525d73)
+[Basic baseline models](https://www.kaggle.com/tunguz/just-some-simple-eda)
+[TFIDF-NaiveBayes-LogReg Baseline](https://www.kaggle.com/ryanzhang/tfidf-naivebayes-logreg-baseline)
+
+[Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
+[Pytorch](https://www.kaggle.com/artgor/text-modelling-in-pytorch)
+[RNN](https://www.kaggle.com/kratisaxena/eda-classification-for-reviews-using-rnn)
+[LSTM-CNN](https://www.kaggle.com/artgor/eda-and-lstm-cnn)
+[LSTM + Attention Baseline](https://www.kaggle.com/suicaokhoailang/lstm-attention-baseline-0-672-lb)
+
+[Transfer Learning!](https://www.kaggle.com/mschumacher/adding-an-auxiliary-task)
 
 Project Organization
 ------------
